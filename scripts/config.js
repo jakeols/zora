@@ -47,9 +47,9 @@ var Wata = {
 
     // Google map position and marker name
     googleMaps: {
-        lat: 43.8677398,
-        lng: 18.4211003,
-        zoom: 16
+        lat: 43.7800607,
+        lng: 11.170928,
+        zoom: 6
     }
 
 };
